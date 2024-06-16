@@ -1,0 +1,6 @@
+image_name: redis:7.2.4
+container_name: hot_db
+connection_info:
+  password: 'admin'
+  host: '127.0.0.1'
+  port: 8786
